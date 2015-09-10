@@ -3,4 +3,3 @@ class Trip:
 		self.name = name
 		self.participantFactory = PersonFactory()
 		self.expensesFactory = ExpensesFactory()
-			
